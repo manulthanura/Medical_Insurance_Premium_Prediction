@@ -21,3 +21,4 @@ This model predicts medical insurance costs with machine learning and artificial
 Source files
 
 - [Google Colab](./Medical_Insurance_Premium_Prediction_with_Machine_Learning.ipynb)
+- [Python](./medical_insurance_premium_prediction_with_machine_learning.py)
